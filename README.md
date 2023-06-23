@@ -32,7 +32,7 @@ Just open the `index.html` file in a web browser.
 3. All of the icons and more can be downloaded as SVGs from Material Design Icons.
 4. Choose your own fonts! The design example uses `Roboto`, which is available with Google fonts.
 
-# Step 5: Some Tips!
+### Step 5: Some Tips!
 
 1. When building the layout, apply background colors or borders to your containers to help you visualize your grid.
 2. It’s up to you whether to use pixels, fr units or both for your grid tracks.
